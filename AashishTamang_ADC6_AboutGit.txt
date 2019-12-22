@@ -1,0 +1,1 @@
+git pull runs git fetch with the given parameters and calls git merge to merge the retrieved branch heads into the current branch. 
